@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Maid Up Restaurant</title>
+    <link rel="stylesheet" href="/static/bookings/css/styles.css">
+</head>
+<body>
+
+<h1>Book a Table</h1>
+
+<form action="{% url 'make_reservation' %}" method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Book Now</button>
+</form>
+
+<script src="/static/bookings/js/scripts.js"></script>
+
+</body>
+</html>
