@@ -1,4 +1,4 @@
-# MAID UP RESTAURANT
+# Maid Up Restaurant
 
 Maid Up restuarant is up and coming restaurant that is gaining massive popularity, hence it has now resorted to online booking.
 
