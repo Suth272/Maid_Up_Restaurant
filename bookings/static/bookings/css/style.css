@@ -1,0 +1,11 @@
+/* Basic styling for the form */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    background: #f4f4f9;
+    padding: 20px;
+    border-radius: 8px;
+}
