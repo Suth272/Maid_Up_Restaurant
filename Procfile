@@ -1,0 +1,1 @@
+web: gunicorn maid_up.wsgi
