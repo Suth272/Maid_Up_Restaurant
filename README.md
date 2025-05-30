@@ -14,6 +14,9 @@ You can view the live site [here](https://maid-up-restuarant-6f8ec47c25b3.heroku
 ## Author
 Sutharshanan Alagarajah
 
+## User Stories
+You can view the user stories [here](https://github.com/users/Suth272/projects/1).
+
 ## Features
 - Staff (those with access to the admin page) can add or remove tables and seats
 - Users can successfully make reservations, which can be seen by the staff on the admin page.
