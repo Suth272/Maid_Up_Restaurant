@@ -8,6 +8,9 @@ Unfortunately due to my circumstances I had limited time to create this booking 
 ## Repository
 You can view the repository [here](https://github.com/Suth272/Maid_Up_Restaurant)
 
+## Live Site
+You can view the live site [here](https://maid-up-restuarant-6f8ec47c25b3.herokuapp.com)
+
 ## Author
 Sutharshanan Alagarajah
 
@@ -28,7 +31,7 @@ I have manually tested this project by doing the following:
 - [x] Used the admin page to add a multiple tables that had a range of seats available.
 
 ### Issue 1
-![image](https://github.com/user-attachments/assets/e811d7e4-39be-4527-8102-161470886521)
+![Image](https://github.com/user-attachments/assets/c7e9d26c-ccdc-434d-8b23-dc584a93ca6d)
 
 ### Issue 2
 ![image](https://github.com/user-attachments/assets/491df81f-7b3a-423e-b4e8-c135b7ca0150)
